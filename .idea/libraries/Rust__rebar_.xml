@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Rust &lt;rebar&gt;">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/rust/rust-1.7.0-src.zip!/rust-1.7.0/src/libstd" />
+      <root url="jar://$USER_HOME$/rust/rust-1.7.0-src.zip!/rust-1.7.0/src/libcore" />
+      <root url="jar://$USER_HOME$/rust/rust-1.7.0-src.zip!/rust-1.7.0/src/libcollections" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
